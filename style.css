@@ -1,0 +1,17 @@
+.title{
+    text-align: center;
+    color:#4242c4;
+    background-color:#6d6db8;
+    
+}
+
+ul{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li{
+    background-color:#6d6db8;
+    margin-top: 10px;
+    color: #4242c4;
+}
